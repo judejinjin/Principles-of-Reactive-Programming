@@ -1,0 +1,332 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\package.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala, D:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 9 sources: invalidated sources (9) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 9 Scala sources to D:\Scala\scala-workspace\Coursera-Scala\suggestions\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 24811bae, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	E:\JDK8\java\lib\resources.jar;E:\JDK8\java\lib\rt.jar;E:\JDK8\java\lib\sunrsasign.jar;E:\JDK8\java\lib\jsse.jar;E:\JDK8\java\lib\jce.jar;E:\JDK8\java\lib\charsets.jar;E:\JDK8\java\lib\jfr.jar;E:\JDK8\java\classes;C:\Users\Administrator\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Scala\scala-workspace\Coursera-Scala\suggestions\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:10: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.swing.Reactions.Reaction[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:11: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.swing.event.Event[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:12: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Observable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:13: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.subjects.ReplaySubject[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:25: not found: type Event[0m
+[0m[[31merror[0m] [0m  type ValueChanged <: Event[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:28: not found: type Event[0m
+[0m[[31merror[0m] [0m    def unapply(x: Event): Option[TextField][0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:31: not found: type Event[0m
+[0m[[31merror[0m] [0m  type ButtonClicked <: Event[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:34: not found: type Event[0m
+[0m[[31merror[0m] [0m    def unapply(x: Event): Option[Button][0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:39: not found: type Reaction[0m
+[0m[[31merror[0m] [0m    def subscribe(r: Reaction): Unit[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:40: not found: type Reaction[0m
+[0m[[31merror[0m] [0m    def unsubscribe(r: Reaction): Unit[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:44: not found: type Reaction[0m
+[0m[[31merror[0m] [0m    def subscribe(r: Reaction): Unit[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:45: not found: type Reaction[0m
+[0m[[31merror[0m] [0m    def unsubscribe(r: Reaction): Unit[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:55: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def textValues: Observable[String]  = {[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:56: not found: value ReplaySubject[0m
+[0m[[31merror[0m] [0m      val subject = ReplaySubject[String]()[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:59: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m        _ match {[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:76: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def clicks: Observable[Button]  = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:77: not found: value ReplaySubject[0m
+[0m[[31merror[0m] [0m      val subject = ReplaySubject[Button]()[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\SwingApi.scala:80: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m        _ match {[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:11: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.subscriptions.CompositeSubscription[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:12: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Observable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:28: not found: type Observable[0m
+[0m[[31merror[0m] [0m  def wikiSuggestResponseStream(term: String): Observable[List[String]] = ObservableEx(wikipediaSuggestion(term))[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala:9: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Observable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala:20: not found: type Observable[0m
+[0m[[31merror[0m] [0m  def apply[T](f: Future[T])(implicit execContext: ExecutionContext): Observable[T] = {[0m
+[0m[[31merror[0m] [0m                                                                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:44: not found: type Observable[0m
+[0m[[31merror[0m] [0m  implicit class ObservableOps[T](obs: Observable[T]) {[0m
+[0m[[31merror[0m] [0m                                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:34: not found: type Observable[0m
+[0m[[31merror[0m] [0m  implicit class StringObservableOps(obs: Observable[String]) {[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:32: not found: type Observable[0m
+[0m[[31merror[0m] [0m  def wikiPageResponseStream(term: String): Observable[String] = ObservableEx(wikipediaPage(term))[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:40: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def sanitized: Observable[String] =  obs.map(s => s.replace(" ", "_"))[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:51: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def recovered: Observable[Try[T]] = {[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:62: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def timedOut(totalSec: Long): Observable[T] = obs takeUntil Observable.interval(totalSec seconds)[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:89: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def concatRecovered[S](requestMethod: T => Observable[S]): Observable[Try[S]] = {[0m
+[0m[[31merror[0m] [0m                                                               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaApi.scala:89: not found: type Observable[0m
+[0m[[31merror[0m] [0m    def concatRecovered[S](requestMethod: T => Observable[S]): Observable[Try[S]] = {[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:8: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.swing._[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:10: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.swing.event._[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:11: not found: object swing[0m
+[0m[[31merror[0m] [0mimport swing.Swing._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:13: not found: object Orientation[0m
+[0m[[31merror[0m] [0mimport Orientation._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:14: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.subscriptions.CompositeSubscription[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:15: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Observable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:16: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Subscription[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:20: not found: type SimpleSwingApplication[0m
+[0m[[31merror[0m] [0mobject WikipediaSuggest extends SimpleSwingApplication with ConcreteSwingApi with ConcreteWikipediaApi {[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:30: not found: type MainFrame[0m
+[0m[[31merror[0m] [0m  def top = new MainFrame {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:163: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0m  type Button = scala.swing.Button[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:37: suggestions.gui.WikipediaSuggest.Button does not have a constructor[0m
+[0m[[31merror[0m] [0m    val button = new Button("Get") {[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:38: not found: value icon[0m
+[0m[[31merror[0m] [0m      icon = new javax.swing.ImageIcon(javax.imageio.ImageIO.read(this.getClass.getResourceAsStream("/suggestions/wiki-icon.png")))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:162: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0m  type TextField = scala.swing.TextField[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:41: not found: type ListView[0m
+[0m[[31merror[0m] [0m    val suggestionList = new ListView(ListBuffer[String]())[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:42: not found: type Label[0m
+[0m[[31merror[0m] [0m    val status = new Label(" ")[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:43: not found: type EditorPane[0m
+[0m[[31merror[0m] [0m    val editorpane = new EditorPane {[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:45: not found: value border[0m
+[0m[[31merror[0m] [0m      border = new EtchedBorder(EtchedBorder.LOWERED)[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:46: not found: value editable[0m
+[0m[[31merror[0m] [0m      editable = false[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:47: not found: value peer[0m
+[0m[[31merror[0m] [0m      peer.setContentType("text/html")[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala:4: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Scheduler[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala:9: not found: type Scheduler[0m
+[0m[[31merror[0m] [0m  val SwingEventThreadScheduler: Scheduler =[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:84: not found: type Observable[0m
+[0m[[31merror[0m] [0m    val searchTerms: Observable[String] = searchTermField.textValues.sanitized[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:87: not found: type Observable[0m
+[0m[[31merror[0m] [0m    val suggestions: Observable[Try[List[String]]] = searchTerms.sanitized concatRecovered wikiSuggestResponseStream[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:99: not found: type Subscription[0m
+[0m[[31merror[0m] [0m    val suggestionSubscription: Subscription = suggestions.observeOn(eventScheduler) subscribe {[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:107: not found: type Observable[0m
+[0m[[31merror[0m] [0m    val selections: Observable[String] = Observable { observer =>[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:118: not found: type Observable[0m
+[0m[[31merror[0m] [0m    val pages: Observable[Try[String]] = selections.sanitized concatRecovered wikiPageResponseStream[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:130: not found: type Subscription[0m
+[0m[[31merror[0m] [0m    val pageSubscription: Subscription =  pages.observeOn(eventScheduler) subscribe {[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:34: not found: value title[0m
+[0m[[31merror[0m] [0m    title = "Query Wikipedia"[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:35: not found: value minimumSize[0m
+[0m[[31merror[0m] [0m    minimumSize = new Dimension(900, 600)[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:50: not found: value contents[0m
+[0m[[31merror[0m] [0m    contents = new BoxPanel(orientation = Vertical) {[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:107: not found: value Observable[0m
+[0m[[31merror[0m] [0m    val selections: Observable[String] = Observable { observer =>[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:4: object json4s is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.json4s._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:11: object async is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.async.Async._[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:17: not found: object dispatch[0m
+[0m[[31merror[0m] [0mimport dispatch._[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:18: object json4s is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.json4s.native._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:148: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0m  type ValueChanged = scala.swing.event.ValueChanged[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:150: not found: type Event[0m
+[0m[[31merror[0m] [0m    def unapply(x: Event) = x match {[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:155: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0m  type ButtonClicked = scala.swing.event.ButtonClicked[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\WikipediaSuggest.scala:157: not found: type Event[0m
+[0m[[31merror[0m] [0m    def unapply(x: Event) = x match {[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\package.scala:3: object swing is not a member of package scala[0m
+[0m[[31merror[0m] [0mimport scala.swing.Reactions.Reaction[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\gui\package.scala:8: not found: type Reaction[0m
+[0m[[31merror[0m] [0m    def apply(r: Reaction) = r[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala:10: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Scheduler[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\ObservableEx.scala:21: not found: value Observable[0m
+[0m[[31merror[0m] [0m    Observable.from(f)[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala:5: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.schedulers.SwingScheduler[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\observablex\SchedulerEx.scala:10: not found: value rx[0m
+[0m[[31merror[0m] [0m    rx.lang.scala.JavaConversions.javaSchedulerToScalaScheduler(SwingScheduler.getInstance)[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:13: not found: object rx[0m
+[0m[[31merror[0m] [0mimport rx.lang.scala.Observable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:19: not found: object retrofit[0m
+[0m[[31merror[0m] [0mimport retrofit.http.{GET, Query}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:20: not found: object retrofit[0m
+[0m[[31merror[0m] [0mimport retrofit.Callback[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:21: not found: object retrofit[0m
+[0m[[31merror[0m] [0mimport retrofit.client.Response[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:22: not found: object retrofit[0m
+[0m[[31merror[0m] [0mimport retrofit.{RetrofitError, Callback, RestAdapter}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:23: object google is not a member of package com[0m
+[0m[[31merror[0m] [0mimport com.google.gson.annotations.SerializedName[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:29: object json4s is not a member of package org[0m
+[0m[[31merror[0m] [0m  implicit val formats = org.json4s.DefaultFormats[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:32: not found: value async[0m
+[0m[[31merror[0m] [0m    async {[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:43: not found: value async[0m
+[0m[[31merror[0m] [0m    async {[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:71: not found: type SerializedName[0m
+[0m[[31merror[0m] [0m    @SerializedName("*")[0m
+[0m[[31merror[0m] [0m     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:77: not found: type Callback[0m
+[0m[[31merror[0m] [0m    def suggestions(@Query("search") term: String, callback: Callback[Array[AnyRef]]): Unit[0m
+[0m[[31merror[0m] [0m                                                             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:76: not found: type GET[0m
+[0m[[31merror[0m] [0m    @GET("/w/api.php?action=opensearch&format=json&limit=15")[0m
+[0m[[31merror[0m] [0m     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:77: not found: type Query[0m
+[0m[[31merror[0m] [0m    def suggestions(@Query("search") term: String, callback: Callback[Array[AnyRef]]): Unit[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:80: not found: type Callback[0m
+[0m[[31merror[0m] [0m    def page(@Query("page") term: String, callback: Callback[Page]): Unit[0m
+[0m[[31merror[0m] [0m                                                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:79: not found: type GET[0m
+[0m[[31merror[0m] [0m    @GET("/w/api.php?action=parse&format=json&prop=text&section=0")[0m
+[0m[[31merror[0m] [0m     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:80: not found: type Query[0m
+[0m[[31merror[0m] [0m    def page(@Query("page") term: String, callback: Callback[Page]): Unit[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:83: not found: value RestAdapter[0m
+[0m[[31merror[0m] [0m  val restAdapter = new RestAdapter.Builder().setEndpoint("https://en.wikipedia.org").build()[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:87: not found: type Callback[0m
+[0m[[31merror[0m] [0m  def callbackFuture[T]: (Callback[T], Future[T]) = {[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:89: not found: type Callback[0m
+[0m[[31merror[0m] [0m    val cb = new Callback[T] {[0m
+[0m[[31merror[0m] [0m                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:90: not found: type Response[0m
+[0m[[31merror[0m] [0m      def success(t: T, response: Response) = {[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:93: not found: type RetrofitError[0m
+[0m[[31merror[0m] [0m      def failure(error: RetrofitError) = {[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:90: Parameter type in structural refinement may not refer to an abstract type defined outside that refinement[0m
+[0m[[31merror[0m] [0m      def success(t: T, response: Response) = {[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:102: not found: value async[0m
+[0m[[31merror[0m] [0m    async {[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\suggestions\src\main\scala\suggestions\search\Search.scala:114: not found: value async[0m
+[0m[[31merror[0m] [0m    async {[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m100 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

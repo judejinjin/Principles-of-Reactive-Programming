@@ -1,0 +1,342 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\common\package.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala, D:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 6 Scala sources to D:\Scala\scala-workspace\Coursera-Scala\kvstore\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 2dc3a0d5, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	E:\JDK8\java\lib\resources.jar;E:\JDK8\java\lib\rt.jar;E:\JDK8\java\lib\sunrsasign.jar;E:\JDK8\java\lib\jsse.jar;E:\JDK8\java\lib\jce.jar;E:\JDK8\java\lib\charsets.jar;E:\JDK8\java\lib\jfr.jar;E:\JDK8\java\classes;C:\Users\Administrator\.sbt\boot\scala-2.10.4\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\Scala\scala-workspace\Coursera-Scala\kvstore\target\scala-2.10\classes[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{ActorRef, Actor}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:18: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass Arbiter extends Actor {[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:15: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  case class Replicas(replicas: Set[ActorRef])[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:20: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var leader: Option[ActorRef] = None[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:21: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var replicas = Set.empty[ActorRef][0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:23: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:26: not found: value sender[0m
+[0m[[31merror[0m] [0m        leader = Some(sender)[0m
+[0m[[31merror[0m] [0m                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:28: not found: value sender[0m
+[0m[[31merror[0m] [0m        sender ! JoinedPrimary[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Arbiter.scala:31: not found: value sender[0m
+[0m[[31merror[0m] [0m        sender ! JoinedSecondary[0m
+[0m[[31merror[0m] [0m        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:7: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{ OneForOneStrategy, SupervisorStrategy, Props, ActorRef, Actor, Terminated, PoisonPill }[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:8: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.SupervisorStrategy.Restart[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:9: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.pattern.{ ask, pipe }[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:10: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.util.Timeout[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:35: not found: type Actor[0m
+[0m[[31merror[0m] [0m                         val buildResponse: (Long, String) => Any) extends Actor {[0m
+[0m[[31merror[0m] [0m                                                                           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:33: not found: type ActorRef[0m
+[0m[[31merror[0m] [0mclass ConsistencyManager(var persistence: ActorRef,[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:34: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m                         var replicators: Set[ActorRef],[0m
+[0m[[31merror[0m] [0m                                              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:17: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  case class Modification(requester: ActorRef, id: Long, key: String, valueOption: Option[String])[0m
+[0m[[31merror[0m] [0m                                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:21: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  case class Gone(replicator: ActorRef) extends ReplicatorLifecycle[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:22: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  case class Entered(replicator: ActorRef) extends ReplicatorLifecycle[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:36: not found: value context[0m
+[0m[[31merror[0m] [0m  import context.dispatcher[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:39: not found: value akka[0m
+[0m[[31merror[0m] [0m  import akka.actor.Cancellable[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:46: not found: type Cancellable[0m
+[0m[[31merror[0m] [0m  var deadlines: Option[Cancellable] = None[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:47: not found: type Cancellable[0m
+[0m[[31merror[0m] [0m  var persitences: Option[Cancellable] = None[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:51: not found: type Receive[0m
+[0m[[31merror[0m] [0m  def waiting: Receive = {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:51: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m  def waiting: Receive = {[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:61: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(runNext(Queue(modification)))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:67: not found: type Receive[0m
+[0m[[31merror[0m] [0m  def runNext(queue: Queue[Modification]): Receive = {[0m
+[0m[[31merror[0m] [0m                                           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:80: not found: value context[0m
+[0m[[31merror[0m] [0m      deadlines = Some(context.system.scheduler.scheduleOnce(1 second, self, SyncTimeout(actual)))[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:81: not found: value context[0m
+[0m[[31merror[0m] [0m      persitences = Some(context.system.scheduler.scheduleOnce(100 milliseconds, self, EnsurePersisted(actual)))[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:87: not found: type Receive[0m
+[0m[[31merror[0m] [0m  def synchronize(queue: Queue[Modification], persisted: Boolean, partners: Set[ActorRef]): Receive = {[0m
+[0m[[31merror[0m] [0m                                                                                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:87: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  def synchronize(queue: Queue[Modification], persisted: Boolean, partners: Set[ActorRef]): Receive = {[0m
+[0m[[31merror[0m] [0m                                                                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:98: not found: type Receive[0m
+[0m[[31merror[0m] [0m  def awaitSynchronization(queue: Queue[Modification], persisted: Boolean, partners: Set[ActorRef]): Receive = {[0m
+[0m[[31merror[0m] [0m                                                                                                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:98: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  def awaitSynchronization(queue: Queue[Modification], persisted: Boolean, partners: Set[ActorRef]): Receive = {[0m
+[0m[[31merror[0m] [0m                                                                                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:98: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m  def awaitSynchronization(queue: Queue[Modification], persisted: Boolean, partners: Set[ActorRef]): Receive = {[0m
+[0m[[31merror[0m] [0m                                                                                                               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:101: not found: value context[0m
+[0m[[31merror[0m] [0m      persitences = Some(context.system.scheduler.scheduleOnce(100 milliseconds, self, EnsurePersisted(op)))[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:106: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(synchronize(queue, persisted = true, partners))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:110: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(synchronize(queue, persisted, partners - sender))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:117: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(runNext(queue.tail))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:121: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(awaitSynchronization(queue :+ modification, persisted, partners))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:126: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(synchronize(queue, persisted, partners - r))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\ConsistencyManager.scala:135: not found: value context[0m
+[0m[[31merror[0m] [0m      context.become(synchronize(queue, persisted, partners + r))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{Props, Actor}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:16: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass Persistence(flaky: Boolean) extends Actor {[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:13: not found: type Props[0m
+[0m[[31merror[0m] [0m  def props(flaky: Boolean): Props = Props(classOf[Persistence], flaky)[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:13: not found: value Props[0m
+[0m[[31merror[0m] [0m  def props(flaky: Boolean): Props = Props(classOf[Persistence], flaky)[0m
+[0m[[31merror[0m] [0m                                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:19: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Persistence.scala:21: not found: value sender[0m
+[0m[[31merror[0m] [0m      if (!flaky || Random.nextBoolean()) sender ! Persisted(key, id)[0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{ OneForOneStrategy, Props, ActorRef, Actor }[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:6: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.SupervisorStrategy.Restart[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:8: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.pattern.{ ask, pipe }[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:9: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.Terminated[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:11: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.PoisonPill[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:12: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.OneForOneStrategy[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:13: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.SupervisorStrategy[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:14: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.util.Timeout[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:33: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass Replica(val arbiter: ActorRef, persistenceProps: Props) extends Actor {[0m
+[0m[[31merror[0m] [0m                                                                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:33: not found: type ActorRef[0m
+[0m[[31merror[0m] [0mclass Replica(val arbiter: ActorRef, persistenceProps: Props) extends Actor {[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:33: not found: type Props[0m
+[0m[[31merror[0m] [0mclass Replica(val arbiter: ActorRef, persistenceProps: Props) extends Actor {[0m
+[0m[[31merror[0m] [0m                                                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:30: not found: type Props[0m
+[0m[[31merror[0m] [0m  def props(arbiter: ActorRef, persistenceProps: Props): Props = Props(new Replica(arbiter, persistenceProps))[0m
+[0m[[31merror[0m] [0m                                                         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:30: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  def props(arbiter: ActorRef, persistenceProps: Props): Props = Props(new Replica(arbiter, persistenceProps))[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:30: not found: type Props[0m
+[0m[[31merror[0m] [0m  def props(arbiter: ActorRef, persistenceProps: Props): Props = Props(new Replica(arbiter, persistenceProps))[0m
+[0m[[31merror[0m] [0m                                                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:30: not found: value Props[0m
+[0m[[31merror[0m] [0m  def props(arbiter: ActorRef, persistenceProps: Props): Props = Props(new Replica(arbiter, persistenceProps))[0m
+[0m[[31merror[0m] [0m                                                                 ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:37: not found: value context[0m
+[0m[[31merror[0m] [0m  import context.dispatcher[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:45: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var secondaries = Map.empty[ActorRef, ActorRef][0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:45: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var secondaries = Map.empty[ActorRef, ActorRef][0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:47: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var replicators = Set.empty[ActorRef][0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:51: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var managers = Map.empty[String, ActorRef][0m
+[0m[[31merror[0m] [0m                                   ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:55: not found: value context[0m
+[0m[[31merror[0m] [0m  val persistence = context.actorOf(persistenceProps)[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:58: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:59: not found: value context[0m
+[0m[[31merror[0m] [0m    case JoinedPrimary   => context.become(leader)[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:60: not found: value context[0m
+[0m[[31merror[0m] [0m    case JoinedSecondary => context.become(replica)[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:64: not found: type Receive[0m
+[0m[[31merror[0m] [0m  val leader: Receive = handleGetOperation orElse {[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:100: not found: type Receive[0m
+[0m[[31merror[0m] [0m  private def handleGetOperation: Receive = {[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:83: not found: type Receive[0m
+[0m[[31merror[0m] [0m  val replica: Receive = handleGetOperation orElse {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:100: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m  private def handleGetOperation: Receive = {[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:102: not found: value sender[0m
+[0m[[31merror[0m] [0m      sender ! GetResult(key, keyValueStorage.get(key), id)[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:108: not found: value context[0m
+[0m[[31merror[0m] [0m      val manager = context.actorOf(Props(classOf[ConsistencyManager],[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:124: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m    def isGone(replica: ActorRef) = {[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:123: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  private def whenReplicasChange(replicas: Set[ActorRef]) =  {[0m
+[0m[[31merror[0m] [0m                                               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:128: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m    def isNew(replica: ActorRef) = {[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:134: not found: value context[0m
+[0m[[31merror[0m] [0m      context.stop(secondaries(replica))[0m
+[0m[[31merror[0m] [0m      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:132: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m    def handleReplicaRemoval(replica: ActorRef) = {[0m
+[0m[[31merror[0m] [0m                                      ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:139: not found: value context[0m
+[0m[[31merror[0m] [0m      val replicator = context.actorOf(Props(classOf[Replicator], replica))[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:138: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m    def handleReplicaCreation(replica: ActorRef) = {[0m
+[0m[[31merror[0m] [0m                                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replica.scala:152: not found: value self[0m
+[0m[[31merror[0m] [0m    for (replica <- (replicas - self) ++ secondaries.keys.toSet) {[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:3: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.Props[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:4: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.Actor[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:5: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.ActorRef[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:7: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.Cancellable[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:23: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass Replicator(val replica: ActorRef) extends Actor {[0m
+[0m[[31merror[0m] [0m                                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:23: not found: type ActorRef[0m
+[0m[[31merror[0m] [0mclass Replicator(val replica: ActorRef) extends Actor {[0m
+[0m[[31merror[0m] [0m                              ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:16: not found: type Props[0m
+[0m[[31merror[0m] [0m  def props(replica: ActorRef): Props = Props(new Replicator(replica))[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:16: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  def props(replica: ActorRef): Props = Props(new Replicator(replica))[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:16: not found: value Props[0m
+[0m[[31merror[0m] [0m  def props(replica: ActorRef): Props = Props(new Replicator(replica))[0m
+[0m[[31merror[0m] [0m                                        ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:26: not found: value context[0m
+[0m[[31merror[0m] [0m  import context.dispatcher[0m
+[0m[[31merror[0m] [0m         ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:32: not found: value context[0m
+[0m[[31merror[0m] [0m  val flushScheduler = context.system.scheduler.schedule(100 milliseconds, 100 milliseconds, self, FlushPending)[0m
+[0m[[31merror[0m] [0m                       ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:34: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var acknowledgements = Map.empty[Long, (ActorRef, Replicate)][0m
+[0m[[31merror[0m] [0m                                          ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:35: not found: type Cancellable[0m
+[0m[[31merror[0m] [0m  var acknowledgementTrackers = Map.empty[Long, Cancellable][0m
+[0m[[31merror[0m] [0m                                                ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:47: not found: type Receive[0m
+[0m[[31merror[0m] [0m  def receive: Receive = {[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mD:\Scala\scala-workspace\Coursera-Scala\kvstore\src\main\scala\kvstore\Replicator.scala:47: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: <error>[0m
+[0m[[31merror[0m] [0m  def receive: Receive = {[0m
+[0m[[31merror[0m] [0m                         ^[0m
+[0m[[31merror[0m] [0m101 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

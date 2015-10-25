@@ -1,0 +1,250 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin
+compile options:
+8 items
+0 -> -javabootclasspath
+1 -> E:\JDK8\java\lib\resources.jar;E:\JDK8\java\lib\rt.jar;E:\JDK8\java\lib\jsse.jar;E:\JDK8\java\lib\jce.jar;E:\JDK8\java\lib\charsets.jar;E:\JDK8\java\lib\jfr.jar;E:\JDK8\java\lib\ext\access-bridge-64.jar;E:\JDK8\java\lib\ext\cldrdata.jar;E:\JDK8\java\lib\ext\dnsns.jar;E:\JDK8\java\lib\ext\jaccess.jar;E:\JDK8\java\lib\ext\jfxrt.jar;E:\JDK8\java\lib\ext\localedata.jar;E:\JDK8\java\lib\ext\nashorn.jar;E:\JDK8\java\lib\ext\sunec.jar;E:\JDK8\java\lib\ext\sunjce_provider.jar;E:\JDK8\java\lib\ext\sunmscapi.jar;E:\JDK8\java\lib\ext\sunpkcs11.jar;E:\JDK8\java\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -encoding
+7 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+46 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2$$anonfun$3.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2$$anonfun$applyOrElse$2.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$copying$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyFinished$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyTo$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyTo.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Left$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Position.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Right$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$garbageCollecting$1$$anonfun$applyOrElse$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$garbageCollecting$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Contains$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Contains.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$ContainsResult$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$ContainsResult.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$GC$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Insert$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Insert.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Operation.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationFinished$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationFinished.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationReply.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Remove$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Remove.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package$$anonfun$subFile$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package$.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$2.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$apply$mcV$sp$2.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$randomOperations$1$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$referenceReplies$1$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$4.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$5.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$6.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$apply$mcV$sp$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$verify$1.class
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite.class
+binary dependencies:
+11 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> D:\Scala\scala-workspace\akka-actor_2.11-2.4.0.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\akka-actor_2.11-2.4.0.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\akka-testkit_2.11-2.4.0.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\junit-4.11.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> E:\JDK8\java\lib\rt.jar
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+direct source dependencies:
+1 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+46 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$$anonfun$2$$anonfun$3
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$$anonfun$2$$anonfun$applyOrElse$2
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$$anonfun$copying$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$CopyFinished$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$CopyTo
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$CopyTo$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$Left$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$Position
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeNode$Right$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$$anonfun$garbageCollecting$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$$anonfun$garbageCollecting$1$$anonfun$applyOrElse$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Contains
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Contains$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$ContainsResult
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$ContainsResult$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$GC$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Insert
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Insert$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Operation
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$OperationFinished
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$OperationFinished$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$OperationReply
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Remove
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> actorbintree.BinaryTreeSet$Remove$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> common.package
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> common.package$
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$2
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$3
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$3$$anonfun$apply$mcV$sp$2
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$3$$anonfun$randomOperations$1$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$3$$anonfun$referenceReplies$1$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$receiveN$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$4
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$5
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$6
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$apply$mcV$sp$1
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> actorbintree.BinaryTreeSuite$$anonfun$verify$1
+used names:
+0 items
+product stamps:
+46 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2$$anonfun$3.class -> lastModified(1445735939323)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2$$anonfun$applyOrElse$2.class -> lastModified(1445735939323)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$2.class -> lastModified(1445735939307)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$$anonfun$copying$1.class -> lastModified(1445735939323)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$.class -> lastModified(1445735939307)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyFinished$.class -> lastModified(1445735939323)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyTo$.class -> lastModified(1445735939339)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$CopyTo.class -> lastModified(1445735939323)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Left$.class -> lastModified(1445735939339)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Position.class -> lastModified(1445735939339)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode$Right$.class -> lastModified(1445735939339)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeNode.class -> lastModified(1445735939307)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$1.class -> lastModified(1445735939354)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$garbageCollecting$1$$anonfun$applyOrElse$1.class -> lastModified(1445735939354)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$$anonfun$garbageCollecting$1.class -> lastModified(1445735939354)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$.class -> lastModified(1445735939339)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Contains$.class -> lastModified(1445735939370)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Contains.class -> lastModified(1445735939370)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$ContainsResult$.class -> lastModified(1445735939370)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$ContainsResult.class -> lastModified(1445735939370)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$GC$.class -> lastModified(1445735939386)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Insert$.class -> lastModified(1445735939386)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Insert.class -> lastModified(1445735939386)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Operation.class -> lastModified(1445735939386)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationFinished$.class -> lastModified(1445735939386)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationFinished.class -> lastModified(1445735939401)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$OperationReply.class -> lastModified(1445735939401)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Remove$.class -> lastModified(1445735939401)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet$Remove.class -> lastModified(1445735939401)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSet.class -> lastModified(1445735939354)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$1.class -> lastModified(1445661747923)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$2.class -> lastModified(1445661747923)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$apply$mcV$sp$2.class -> lastModified(1445661747938)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$randomOperations$1$1.class -> lastModified(1445661747954)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3$$anonfun$referenceReplies$1$1.class -> lastModified(1445661747954)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$3.class -> lastModified(1445661747938)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$4.class -> lastModified(1445661747970)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$5.class -> lastModified(1445661747970)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$6.class -> lastModified(1445661747970)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1445661747970)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$receiveN$1.class -> lastModified(1445661747954)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite$$anonfun$verify$1.class -> lastModified(1445661747970)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\actorbintree\BinaryTreeSuite.class -> lastModified(1445661747923)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package$$anonfun$subFile$1.class -> lastModified(1445661747985)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package$.class -> lastModified(1445661747985)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\bin\common\package.class -> lastModified(1445661747985)
+source stamps:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> hash(ca010bc8ce54c33e778160044451a15d6d010835)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> hash(959d2de80692406118ffed481da44534a9da824a)
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> hash(197254a0812542bbf39d519236c799c13ae28b3d)
+binary stamps:
+6 items
+D:\Scala\scala-workspace\akka-actor_2.11-2.4.0.jar -> lastModified(1444680918399)
+D:\Scala\scala-workspace\akka-testkit_2.11-2.4.0.jar -> lastModified(1443623494000)
+D:\Scala\scala-workspace\junit-4.11.jar -> lastModified(1444623538501)
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> lastModified(1444625226148)
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443201198000)
+E:\JDK8\java\lib\rt.jar -> lastModified(1443905839103)
+class names:
+6 items
+D:\Scala\scala-workspace\akka-actor_2.11-2.4.0.jar -> akka.actor.Actor
+D:\Scala\scala-workspace\akka-testkit_2.11-2.4.0.jar -> akka.testkit.TestKit
+D:\Scala\scala-workspace\junit-4.11.jar -> org.junit.runner.RunWith
+D:\Scala\scala-workspace\scalatest_2.11-2.2.4.jar -> org.scalatest.SuiteMixin
+E:\eclipseScala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Function2
+E:\JDK8\java\lib\rt.jar -> java.io.Serializable
+internal apis:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAZwDqCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAARzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAaYWN0b3JiaW50cmVlLkJpbmFyeVRyZWVTZXR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANXNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4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
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOY29tbW9uLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgAveHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAuAHBzcQB+ADNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cQB+ABAAAAAAc3EAfgAuAHBzcQB+ADN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AFN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFRzcQB+AEd0AANBbnlzcQB+AEtzcQB+AE51cQB+AFEAAAACc3EAfgBTdAAFc2NhbGFxAH4AWnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJgnh5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxiaW50ADhEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFcYWN0b3JiaW50cmVlXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUlZ0t6AaSQGEY/+1IHaRFNKnagko=
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCwgBwYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxhY3RvcmJpbnRyZWUuQmluYXJ5VHJlZVN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAQc2NhbGEuZGVwcmVjYXRlZHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsO5FPEfRFTMkCAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AU3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3NxAH4AUgBwc3EAfgBXc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4AUgBwc3EAfgBXdXEAfgAQAAAAAHNxAH4AUgBwc3EAfgBXdXEAfgAQAAAAAHNxAH4AUgBwc3EAfgBXdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAABhzcQB+AC10AA5JbXBsaWNpdFNlbmRlcnNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AARha2thc3EAfgA7dAAHdGVzdGtpdHEAfgBEc3EAfgAtdAARQmVmb3JlQW5kQWZ0ZXJBbGxzcQB+ADNzcQB+ADZ1cQB+ADkAAAADc3EAfgA7dAADb3Jnc3EAfgA7dAAJc2NhbGF0ZXN0cQB+AERzcQB+AC10AApTdWl0ZU1peGlucQB+AHRzcQB+AC10AAhNYXRjaGVyc3EAfgB0c3EAfgAtdAAKRXhwbGljaXRseXNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYWN0aWNxAH4ARHNxAH4ALXQADE1hdGNoZXJXb3Jkc3NxAH4AM3NxAH4ANnVxAH4AOQAAAARzcQB+ADt0AANvcmdzcQB+ADt0AAlzY2FsYXRlc3RzcQB+ADt0AAV3b3Jkc3EAfgBEc3EAfgAtdAAKU2hvdWxkVmVyYnEAfgCKc3EAfgAtdAAJVG9sZXJhbmNlcQB+AIFzcQB+AC10AAxGdW5TdWl0ZUxpa2VxAH4AdHNxAH4ALXQAC0RvY3VtZW50aW5ncQB+AHRzcQB+AC10AAhBbGVydGluZ3EAfgB0c3EAfgAtdAAJTm90aWZ5aW5ncQB+AHRzcQB+AC10AAlJbmZvcm1pbmdxAH4AdHNxAH4ALXQAEFRlc3RSZWdpc3RyYXRpb25xAH4AdHNxAH4ALXQABVN1aXRlcQB+AHRzcQB+AC10AAxTZXJpYWxpemFibGVzcQB+ADNzcQB+ADZ1cQB+ADkAAAADc3EAfgA7dAAEamF2YXNxAH4AO3QAAmlvcQB+AERzcQB+AC10AA1BYnN0cmFjdFN1aXRlcQB+AHRzcQB+AC10AApBc3NlcnRpb25zcQB+AHRzcQB+AC10AAxUcmlwbGVFcXVhbHNxAH4AgXNxAH4ALXQAE1RyaXBsZUVxdWFsc1N1cHBvcnRxAH4AgXNxAH4ALXQAB1Rlc3RLaXRxAH4Aa3NxAH4ALXQAC1Rlc3RLaXRCYXNlcQB+AGtzcQB+AC10AAZPYmplY3RzcQB+ADNzcQB+ADZ1cQB+ADkAAAADc3EAfgA7cQB+AKtzcQB+ADt0AARsYW5ncQB+AERzcQB+AC10AANBbnlzcQB+ADNzcQB+ADZ1cQB+ADkAAAACc3EAfgA7dAAFc2NhbGFxAH4ARHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+ABx4cHQADGFjdG9yYmludHJlZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJgnh5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxiaW50ADhEOlxTY2FsYVxzY2FsYS13b3Jrc3BhY2VcQ291cnNlcmEtU2NhbGFcYWN0b3JiaW50cmVlXHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGXJUoIElQrvznVGSNseZwTriiz0=
+external apis:
+0 items
+source infos:
+3 items
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+D:\Scala\scala-workspace\Coursera-Scala\actorbintree\src\test\scala\actorbintree\BinaryTreeSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJgnh5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxhY3RvcmJpbnRyZWVcYmludAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxzcmM=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJyN2yF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxhY3RvcmJpbnRyZWVcYmludAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxzcmM=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJyQkZt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxhY3RvcmJpbnRyZWVcYmludAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxzcmM=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJyR1UZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxhY3RvcmJpbnRyZWVcYmludAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxzcmM=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUJyTtl51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEQ6XFNjYWxhXHNjYWxhLXdvcmtzcGFjZVxDb3Vyc2VyYS1TY2FsYVxhY3RvcmJpbnRyZWVcYmludAA4RDpcU2NhbGFcc2NhbGEtd29ya3NwYWNlXENvdXJzZXJhLVNjYWxhXGFjdG9yYmludHJlZVxzcmM=

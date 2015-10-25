@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/retrofit-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/rxjava-swing-0.20.7.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/rxjava-1.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/mockito-core-2.0.31-beta.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/rxscala_2.11-0.25.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/config-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/akka-actor_2.11-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scala-xml_2.11-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scalatest_2.11-2.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/akka-testkit_2.11-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scalacheck_2.11-1.11.6.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/json4s-ast_2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/json4s-core_2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scala-parser-combinators_2.11-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scala-swing_2.11-1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/dispatch-core_2.10-0.11.3.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/async-http-client.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/Coursera-Scala/suggestions/bin"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="E:/Scala/lib/scala-reflect.jar"/>
+	<classpathentry kind="lib" path="E:/Scala/lib/scala-actors-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Scala/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/json4s-native_2.11-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Scala/scala-workspace/scala-async_2.11-0.9.6-RC2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
